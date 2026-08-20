@@ -700,9 +700,9 @@ span {
     left: 0;
 }
 
-/* .education .right {
+.education .right {
     left: 50%;
-} */
+} 
 
 .education .left::before {
     content: '';
